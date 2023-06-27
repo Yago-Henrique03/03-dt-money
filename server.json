@@ -23,6 +23,22 @@
       "category": "Estudo",
       "price": 50,
       "createdAt": "2023-06-21T16:12:07.318Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-06-27T13:24:52.010Z",
+      "id": 4
+    },
+    {
+      "description": "Carro",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-27T13:35:09.458Z",
+      "id": 5
     }
   ]
 }
